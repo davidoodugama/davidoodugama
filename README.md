@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hi, I'm David Oodugama 👋
 
-<!--
-**davidoodugama/davidoodugama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on audio noise cleaning using deep learning.
+- 🌱 I’m currently learning Golang.
+- 🤔 I’m looking for help with data engineering
+- 💬 Ask me about python, object detection, face recognition or golang
+- 📫 How to reach me: Gmail - davidoodugama1999@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I want to learn everything.
+- ## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
