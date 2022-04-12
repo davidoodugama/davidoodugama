@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Golang.
 - 🤔 I’m looking for help with data engineering
 - 💬 Ask me about python, object detection, face recognition or golang
-- 📫 How to reach me: Gmail - davidoodugama1999@gmail.com
+- 📫 How to reach me: Gmail - davidoodugama1999@gmail.com, [linkedin - @David Oodugama](https://www.linkedin.com/in/david-oodugama-45ab98210/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I want to learn everything.
 - ## 😂 Here is a random joke that'll make you laugh!
