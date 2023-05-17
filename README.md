@@ -1,11 +1,8 @@
 ### Hi, I'm David Oodugama 👋
 
 - 🔭 I’m currently working on audio noise cleaning using deep learning.
-- 🌱 I’m currently learning Golang.
-- 🤔 I’m looking for help with data engineering
-- 💬 Ask me about python, object detection, face recognition or golang
+- 💬 Ask me about python, object detection, face recognition or Data Archival Plan, AWS
 - 📫 How to reach me: Gmail - davidoodugama1999@gmail.com, [linkedin - @David Oodugama](https://www.linkedin.com/in/david-oodugama-45ab98210/)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I want to learn everything.
+- ⚡ Fun fact: I want to learn everything hahaaa.
 - ## 😂 Here is a random joke that'll make you laugh!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
